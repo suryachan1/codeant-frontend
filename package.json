@@ -1,0 +1,39 @@
+//Start the development server:
+//npm start
+//#npm install
+
+
+{
+  "name": "codeant-frontend",
+  "version": "1.0.0",
+  "description": "CodeAnt AI Frontend Assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "react",
+    "frontend",
+    "codeant",
+    "assignment"
+  ],
+  "author": "N Surya Chandra",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suryachan1/codeant-frontend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/suryachan1/codeant-frontend/issues"
+  },
+  "homepage": "https://github.com/suryachan1/codeant-frontend"
+}
